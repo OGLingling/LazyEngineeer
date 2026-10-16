@@ -1,20 +1,11 @@
+<!-- Banner Moderno con Degradado Cyberpunk/Tech -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e1b4b,100:3b82f6&height=240&section=header&text=Hey,%20I%20am%20Lino%20Ling&desc=Developer%20and%20Fullstack%20programer%20student%20of%20senati%20institute%20known%20as%20LazyEngineeer&fontSize=42&descSize=16&fontAlignY=38&descAlignY=62&fontColor=ffffff&stroke=60a5fa&strokeWidth=1" width="100%" alt="Lino Ling Banner" />
+</div>
+
 <div id="header" align="center">
   <h1>Bienvenido a mi GITHUB 👋</h1>
 </div>
-
-<!-- OPCIÓN A: Si usas tu propia imagen github-banner.png -->
-<div align="center">
-  <h2>LazyEngineeer - Fullstack programer</h2>
-  <img src="github-banner.png" alt="LazyEngineeer Fullstack programer" width="100%" />
-</div>
-
-<!-- OPCIÓN B: Banner dinámico (descoméntalo si no tienes github-banner.png)
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=LazyEngineeer&desc=Fullstack%20programer&fontSize=50&descSize=25&fontAlignY=35&descAlignY=60&fontColor=ffffff" width="100%" alt="banner" />
-</div>
--->
-
-<br>
 
 <!-- Redes Sociales -->
 <div align="center">
@@ -38,47 +29,35 @@
   <h2>💻 Lenguajes de programación</h2>
   <table align="center">
     <tr>
-      <td align="center" width="80">
+      <td align="center" width="90">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
         </a>
         <br>JavaScript
       </td>
-      <td align="center" width="80">
+      <td align="center" width="90">
         <a href="https://www.python.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
         </a>
         <br>Python
       </td>
-      <td align="center" width="80">
+      <td align="center" width="90">
         <a href="https://dart.dev/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" />
         </a>
         <br>Dart
       </td>
-      <td align="center" width="80">
+      <td align="center" width="90">
         <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
         </a>
         <br>Java
       </td>
-      <td align="center" width="80">
+      <td align="center" width="90">
         <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" />
         </a>
         <br>Kotlin
-      </td>
-      <td align="center" width="80">
-        <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
-        </a>
-        <br>PHP
-      </td>
-      <td align="center" width="80">
-        <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" />
-        </a>
-        <br>Swift
       </td>
     </tr>
   </table>
@@ -94,6 +73,12 @@
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="Next.js" />
         </a>
         <br>Next.js
+      </td>
+      <td align="center" width="100">
+        <a href="https://angular.dev/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" />
+        </a>
+        <br>Angular
       </td>
       <td align="center" width="100">
         <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
@@ -117,30 +102,45 @@
   </table>
 </div>
 
+<!-- Bases de Datos -->
+<div align="center">
+  <h2>🗄️ Bases de Datos</h2>
+  <table align="center">
+    <tr>
+      <td align="center" width="120">
+        <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
+        </a>
+        <br>PostgreSQL
+      </td>
+    </tr>
+  </table>
+</div>
+
 <!-- Herramientas, Editores e IoT -->
 <div align="center">
   <h2>🛠️ Herramientas, Editores & IoT</h2>
   <table align="center">
     <tr>
-      <td align="center" width="90">
+      <td align="center" width="110">
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
         </a>
         <br>Git
       </td>
-      <td align="center" width="90">
+      <td align="center" width="110">
         <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" />
         </a>
         <br>VS Code
       </td>
-      <td align="center" width="90">
-        <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" width="36" height="36" alt="Sublime Text" />
+      <td align="center" width="130">
+        <a href="#" target="_blank" rel="noreferrer">
+          <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="36" height="36" alt="Antigravity IDE" />
         </a>
-        <br>Sublime
+        <br>Antigravity IDE
       </td>
-      <td align="center" width="90">
+      <td align="center" width="110">
         <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" />
         </a>
